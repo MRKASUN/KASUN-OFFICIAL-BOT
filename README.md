@@ -1,8 +1,8 @@
-# CYBER-X WHATSAPP BOT
+# DARK FEENIX WHATSAPP BOT
 
-<p align = center>   <img src="https://telegra.ph/file/b35562cb0b662c1d24a73.jpg" alt="GIF" width="600" height="300"/> </p>
+<p align = center>   <img src="https://telegra.ph/file/d1f829913957196d67dfc.jpg" alt="GIF" width="600" height="300"/> </p>
 
-<p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="DARK-FEENIX _by MR KASUN" src="https://img.shields.io/badge/KASUN-MD WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 
 ## Authors
@@ -52,7 +52,7 @@ For support, email mrkasun47@gmail.com or After deploying the bot you can join t
 
 ## Feedback
 
-If you have any feedback, please reach out to us 0772801923
+If you have any feedback, please reach out to us https://wa.me/+94772801923?text=%E0%B7%84%E0%B7%8F%E0%B6%BA%E0%B7%92%F0%9F%99%88%F0%9F%8C%B8
 
 
 ## Environment Variables
@@ -84,8 +84,8 @@ If you need this non Obb Script or Make you own script with me ( Money propose O
 This is the result of our team's hard work and our team owns the bot's rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances.
 
 
-## ⚖️  *CYBER - X DEVELOPER TEAM* *2K23*  ⚖️
+## ⚖️  *DARK FEENIX -DEVELOPER TEAM* *2K23*  ⚖️
 
-| <a href="https://github.com/darkalphaxteam"><img src="https://telegra.ph/file/c670792adfe0d44dc5a99.jpg" width=90 height=90></a> | <a href="https://github.com/chamiofficial"><img src="https://telegra.ph/file/d81e589b841d6fd5d05a1.jpg" width=90 height=90></a> | <a href="https://github.com/DarkMakerofc"><img src="https://telegra.ph/file/819659c83ab8438084234.jpg" width=90 height=90></a> | <a href="https://github.com/Niranjana45"><img src="https://telegra.ph/file/a7e379be9415cdf16c9df.jpg" width=90 height=90></a> | <a href="https://github.com/nandundilhara"><img src="https://telegra.ph/file/213c1d599c5c3a61a7bed.jpg" width=90 height=90></a> | <a href="https://github.com/Tharushaa2004"><img src="https://telegra.ph/file/976651bc865695c128228.jpg" width=90 height=90></a> |
+| <a href="https://github.com/MRKASUN/KASUN-OFFICIAL-BOT"><img src="https://telegra.ph/file/496b034ff421a31039fe0.jpg" width=90 height=90></a> | <a href="https://github.com/chamiofficial"><img src="https://telegra.ph/file/d81e589b841d6fd5d05a1.jpg" width=90 height=90></a> | <a href="https://github.com/MRKASUN/KASUN-OFFICIAL-BOT"><img src="https://telegra.ph/file/819659c83ab8438084234.jpg" width=90 height=90></a> | <a href="https://github.com/Niranjana45"><img src="https://telegra.ph/file/a7e379be9415cdf16c9df.jpg" width=90 height=90></a> | <a href="https://github.com/nandundilhara"><img src="https://telegra.ph/file/213c1d599c5c3a61a7bed.jpg" width=90 height=90></a> | <a href="https://github.com/Tharushaa2004"><img src="https://telegra.ph/file/10f52a6b8bf59eb51eea3.jpg" width=90 height=90></a> |
 |---|---|---|---|---|---|
-| **[MR KASUN](https://github.com/darkalphaxteam/)**</br>Founder & Developer</br> | **[ROSHAN CHAMIKA](https://github.com/chamiofficial)**</br>CO- Owner & CO-Coder</br> | **[MR.NIMA](https://github.com/DarkMakerofc)**</br> CO-Owner & CO-Coder</br> | **[Akash Niranjana](https://github.com/Niranjana45)**</br> Beta Tester | **[Nadun Dilhara](https://github.com/nandundilhara)**</br> Bug Tester | **[Tharusha Suwahas](https://github.com/Tharushaa2004)**</br> Bug Tester |
+| **[MR KASUN](https://github.com/darkalphaxteam/)**</br>Founder & Developer</br> | **[MR KASUN OFFICIAL](https://github.com/chamiofficial)**</br>CO- Owner & CO-Coder</br> | **[MR.NIMA](https://github.com/DarkMakerofc)**</br> CO-Owner & CO-Coder</br> | **[Akash Niranjana](https://github.com/Niranjana45)**</br> Beta Tester | **[DARK FEENIX]
